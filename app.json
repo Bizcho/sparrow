@@ -11,6 +11,16 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
+    "mainColors":{
+      "primaryColor": "#FF8F1F",
+      "secondaryColor": "#a31d20",
+      "darkGray": "#7b8591",
+      "lightGray": "#f6f6fa",
+      "backgroundGray": "#e5e5e5",
+      "black": "#101611",
+      "white": "#ffffff",
+      "red": "#ff0000"
+    },
     "assetBundlePatterns": [
       "**/*"
     ],
